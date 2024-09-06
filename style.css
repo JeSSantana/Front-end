@@ -1,0 +1,14 @@
+header {
+	font-size: 1.5rem; 
+    color: #9b3131;
+}
+body {
+    background-color:darkgrey;
+  
+}
+footer {
+    background-color:darkkhaki
+    padding: 50px;
+    text-align: center;
+    margin-top: 50px;
+}
